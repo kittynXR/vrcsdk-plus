@@ -1,0 +1,29 @@
+{
+  "name": "cat.kittyn.vrcsdkplus",
+  "displayName": "cátte — VRCSDK+",
+  "version": "1.6.0",
+  "description": "An alternative to the VRCSDK expression Menu & Parameters Editors that provides better functionality and quality of life features.",
+  "keywords": [
+    "kittyn",
+    "catte",
+    "vrchat",
+    "unity",
+    "editor",
+    "utility",
+    "tool"
+  ],
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "^3.0.0"
+  },
+  "author": {
+    "name": "kittyn",
+    "email": "cat@kittyn.cat",
+    "url": "https://kittyn.cat"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool",
+  "unity": "2019.4",
+  "license": "MIT"
+}
