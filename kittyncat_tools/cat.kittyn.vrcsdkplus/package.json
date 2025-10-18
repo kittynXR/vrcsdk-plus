@@ -1,7 +1,7 @@
 {
   "name": "cat.kittyn.vrcsdkplus",
   "displayName": "cátte — VRCSDK+",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "An alternative to the VRCSDK expression Menu & Parameters Editors that provides better functionality and quality of life features.",
   "keywords": [
     "kittyn",
